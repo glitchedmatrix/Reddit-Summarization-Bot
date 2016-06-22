@@ -1,0 +1,1 @@
+worker: python newsbot_goose.py
